@@ -1,0 +1,8 @@
+# Ignore dataset and large files
+Dataset/
+*.zip
+*.rar
+*.7z
+venv/
+__pycache__/
+*.ipynb_checkpoints/
